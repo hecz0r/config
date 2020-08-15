@@ -4,7 +4,7 @@
 
 brew install gcc node tmux neovim wget telnet openvpn fortune cowsay git vcprompt yarn cocoapods tree
 
-get XCode from AppStore
+#get XCode from AppStore
 
 brew tap homebrew/cask-versions
 
